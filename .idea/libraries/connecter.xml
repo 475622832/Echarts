@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="connecter">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/web/WEB-INF/libs/connecter" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/web/WEB-INF/libs/connecter" recursive="false" />
+  </library>
+</component>
